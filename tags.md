@@ -2,21 +2,21 @@
 [○] table
 [○] ol
 [○] ul
-[x] input
-[x] button
+[○] input
+[○] button
 [○] a
-[○] img // arreglar imagen 
+[○] img  
 [x] iframe
-[○] form // arreglar liga a never give you up
+[○] form 
 [○] div
-[x] header
-[x] footer 
+[○] header
+[○] footer 
 [x] main
-[x] nav
+[○] nav
 [x] section
 [x] article
-[x] bootstrap
-[x] javascript
+[○] bootstrap
+[○] javascript
 
-[x] deploy firebase
+[○] deploy
 
